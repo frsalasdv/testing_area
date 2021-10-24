@@ -1,2 +1,0 @@
-code lines
-config settings
